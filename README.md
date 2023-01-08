@@ -1,8 +1,8 @@
-#Telegram Bot SpringBoot App
+# Telegram Bot SpringBoot App
 
 This repository contains `Java SpringBoot` application for sending message on `Telegram` group from `Postman API`.
 
-##Setup
+## Setup
 
 1. Clone/Download this repository.
 2. Add the `botToken` and `chatID` in `src/main/java/com/telegramBot/telegramBot/credentials/Credentials.java`
